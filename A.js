@@ -23,8 +23,7 @@ function fun2(){
     console.log(a2*b2);
 }
 function fun3(){
-    const a3=5,b3=8;
-    console.log(a3$a3);
+    
 }
 //function calling
 fun();
