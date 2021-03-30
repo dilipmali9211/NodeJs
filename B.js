@@ -1,2 +1,3 @@
 var a=12,b=32;
-console.log(a+b);
+var c = a + b;
+console.log(c);
