@@ -1,7 +1,5 @@
-
+var a=12,b=12
 function abc(){
-    var a=3,v=4;
-    z=a+v
-    console .log(z);
+    console .log(a+b);
 }
 abc()
