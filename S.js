@@ -7,7 +7,7 @@ class MyCon{
     constructor(y){ //formal arg.
         console .log("constructor example");
         this.contacts=y;
-        this.contacts();
+        this.getcontacts();
 
     }
     //3.method
@@ -17,11 +17,11 @@ class MyCon{
 } //class end
 
 let x = {
-    student name:-:"ravi",
-    father name:-"monu",
-    contact no:-"1234566",
+    student_name:-"ravi",
+    father_name:-"monu",
+    contact_no:-"1234566",
     addr:-"xy",
-    let x=new 
-}
+    let_x=new 
+    };
 v= new Mycon(x)
 KeyframeEffect.getcontacts();
