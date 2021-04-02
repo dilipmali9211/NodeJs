@@ -1,29 +1,15 @@
+//class defination
 class MyA{
-    //proprtis
+    //1.proprtis
     
-    //constructor
-    constructor(){
+    //2.constructor
 
+    //3.method
+    myFunction(v){ //formal permetar,
+        console .log(`This is a example of constructor.${v}`);
     }
-    //method
- 
-    myFuction(){
 
-        console.log("hello a");
-    }
-}//class ending
-class MyB extends MyA{
-    //proprtis
-    
-    //constructor
-   constructor(){
-       super();
-       this.myFuction();
-   }
-    //method
-    myFuction1(){
+}//class end
+let obj = new MyA();
+obj.myFunction("this is a nodeJs");//actual perametar.
 
-        console.log("hello b");
-    }
-} //class ending
-let obj = new MyB();
