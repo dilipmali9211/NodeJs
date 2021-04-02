@@ -324,9 +324,11 @@ class MyClassZ extends MyClassY{
     }
 }
 let abc = new MyClassZ();
+abc.myFunctiond();
 abc.myFunctiona();
 abc.myFunctionb();
 abc.myFunctionc();
+abc.myFunctiond();
 abc.myFunctione();
 abc.myFunctionf();
 abc.myFunctiong();
