@@ -2,7 +2,7 @@ class A{
     //1.proprties
     //2.constructor
     constructor(){
-        
+        this.
     }
     //3.method
     myF(y){

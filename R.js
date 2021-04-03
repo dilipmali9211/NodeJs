@@ -5,7 +5,7 @@ class MyA{
     //2.constructor
     constructor(){
         this.name="constructor exm."
-        this.myFunction2();
+        this.myFunction2(); 
     }
 
     //3.method
